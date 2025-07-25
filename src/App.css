@@ -1,0 +1,159 @@
+.bg {
+    background-image: url(./assets/belyj_fon_vmiatiny_69592_300x168.jpg);
+}
+
+.bg1 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./assets/depositphotos_126256492-stock-photo-plumber-tools-on-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.h1 {
+    width: 591px;
+    height: 140px;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Italic;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.h2 {
+    width: 614px;
+    height: 216px;
+    top: 280px;
+    left: 17px;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Italic;
+    font-size: 32px;
+    line-height: 170%;
+    text-align: center;
+}
+
+.btn {
+    width: 305;
+    height: 77;
+    padding: 7px 50px;
+    border-radius: 59px;
+    background: #0166FE;
+}
+
+.h1-1 {
+    width: 246;
+    height: 77;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Black;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.h4 {
+    width: 170px;
+    height: 40px;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Italic;
+    font-size: 20px;
+    line-height: 100%;
+    text-align: center;
+    color: black;
+}
+
+.h2-1 {
+    width: 119px;
+    height: 24px;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Italic;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+}
+
+.h3 {
+    width: 217px;
+    height: 24px;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Italic;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+}
+
+.h2-2 {
+    width: 295px;
+    height: 32px;
+    font-family: Inter;
+    font-weight: 900;
+    font-style: Italic;
+    font-size: 32px;
+    line-height: 100%;
+    text-align: center;
+}
+
+.h2-3 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 100%;
+}
+
+.h3-1 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 100%;
+}
+
+.h4-1 {
+
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 100%;
+}
+
+.select {
+    width: 1237px;
+    height: 116px;
+    border-radius: 17px;
+    border-width: 1px;
+    top: 64px;
+    left: 107px;
+    background: #666666;
+    color: #FFFFFF;
+}
+
+.h2-4 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 100%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.h2-5 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 100%;
+    text-align: center;
+    color: #2A2A2A;
+}
+
+.h3-2 {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
